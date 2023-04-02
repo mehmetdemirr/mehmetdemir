@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mehmet__demir__" target="blank"><img src="https://img.shields.io/twitter/follow/mehmet__demir__?logo=twitter&style=for-the-badge" alt="mehmet__demir__" /></a> </p>
 
-- 💬 Ask me about **kotlin , flutter ,dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
